@@ -15,7 +15,7 @@ GENERAL APTITUDE
 
 ## Profit and Loss
 - **IndiaBix:** https://www.indiabix.com/aptitude/profit-and-loss/
-- **GeeksforGeeks:** https://www.geeksforgeeks.org/profit-and-loss-aptitude-questions/
+
 
 ## Time and Work
 - **IndiaBix:** https://www.indiabix.com/aptitude/time-and-work/
