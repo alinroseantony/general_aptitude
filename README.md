@@ -3,8 +3,7 @@ GENERAL APTITUDE
 # Quantitative Aptitude
 
 ## Number System
-- **IndiaBix:** https://www.indiabix.com/aptitude/numbers/
-- **GeeksforGeeks:** https://www.geeksforgeeks.org/quantitative-aptitude-number-system/
+- **IndiaBix:** https://www.indiabix.com/aptitude/numbers
 
 ## Percentages
 - **IndiaBix:** https://www.indiabix.com/aptitude/percentage/
